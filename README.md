@@ -1,45 +1,41 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Votre Nom - CV</title>
+    <title>Professional CV</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Votre Nom</h1>
-            <p>Email: votre@email.com | Téléphone: +1234567890</p>
+            <h1>Your Name</h1>
+            <p>Email: your@email.com | Phone: +1234567890</p>
         </header>
-        <section id="profil">
-            <h2>Profil</h2>
-            <p>Brève description de vous-même.</p>
-        </section>
         <section id="education">
-            <h2>Formation</h2>
+            <h2>Education</h2>
             <ul>
-                <li>Diplôme universitaire en XYZ, Nom de l'Université, Année</li>
-                <li>Baccalauréat, Nom du Lycée, Année</li>
+                <li>Bachelor's Degree in XYZ, University Name, Year</li>
+                <li>High School Diploma, School Name, Year</li>
             </ul>
         </section>
         <section id="experience">
-            <h2>Expérience Professionnelle</h2>
+            <h2>Work Experience</h2>
             <ul>
-                <li>Poste, Nom de l'Entreprise, Dates</li>
-                <li>Poste, Nom de l'Entreprise, Dates</li>
+                <li>Job Title, Company Name, Dates</li>
+                <li>Job Title, Company Name, Dates</li>
             </ul>
         </section>
-        <section id="competences">
-            <h2>Compétences</h2>
+        <section id="skills">
+            <h2>Skills</h2>
             <ul>
-                <li>Compétence 1</li>
-                <li>Compétence 2</li>
-                <li>Compétence 3</li>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <li>Skill 3</li>
             </ul>
         </section>
         <footer>
-            <p>Informations complémentaires ou Pied de page</p>
+            <p>Additional Contact Info or Footer Content</p>
         </footer>
     </div>
 </body>
